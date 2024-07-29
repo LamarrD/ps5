@@ -1,0 +1,37 @@
+{
+  "target": {
+    "link": "",
+    "selector": "",
+    "button_text": ""
+  },
+  "gamestop": {
+    "link": "https://www.gamestop.com/consoles-hardware/playstation-5/consoles/products/sony-playstation-5-slim-console-digital-edition/402378.html",
+    "selector": "//*[@id='add-to-cart-buttons']",
+    "button_text": "Add to Cart"
+  },
+  "bestbuy": {
+    "link": "https://www.bestbuy.com/site/sony-playstation-5-console-white/6523167.p?skuId=6523167",
+    "selector": "//*[contains(@id, 'fulfillment-add-to-cart')]",
+    "button_text": "Add to Cart"
+  },
+  "samsclub": {
+    "link": "",
+    "selector": "",
+    "button_text": ""
+  },
+  "newegg": {
+    "link": "",
+    "selector": "",
+    "button_text": ""
+  },
+  "walmart": {
+    "link": "",
+    "selector": "",
+    "button_text": ""
+  },
+  "bh": {
+    "link": "",
+    "selector": "",
+    "button_text": ""
+  }
+}
